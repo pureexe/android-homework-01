@@ -73,6 +73,6 @@
             android:layout_weight="1"
             android:background="@android:color/holo_orange_dark"
             android:layout_marginLeft="2dp"
-            android:text="Cancle" />
+            android:text="Cancel" />
     </LinearLayout>
 </LinearLayout>
